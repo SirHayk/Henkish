@@ -65,8 +65,8 @@ h1, p {
 
 /* VIDEOS */
 .videos iframe {
-  width: 400px;
-  height: 225px;
+  width: 200px;
+  height: 135px;
   border: none;
 }
 
